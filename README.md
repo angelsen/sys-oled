@@ -10,7 +10,7 @@ Application to display Helios4 System Status on I2C OLED display.
 ## INSTALLATION
 
 ```
-git clone https://github.com/helios-4/sys-oled.git
+git clone https://github.com/angelsen/sys-oled.git
 cd sys-oled
 sudo ./install.sh
 ```
